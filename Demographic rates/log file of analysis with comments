@@ -1,0 +1,65 @@
+Calculate the growth rates, mortality and new recruitments for all the trees in the flooded plots in the following order
+Combine both plots into one table.
+Calculate growth; Annual dbh growth = mean((dbh24-dbh20)/4)
+Calcumate mortality 
+
+14th Jan
+ignore Ace-neg, Cor-san and Fag_syl
+Combine Ulm sp and Til species (grouping into one sp)
+compare these values for Lucian's params in a plot
+One part of data has norway maple (Ace_pla)
+
+Use Lucian's initial states but use the ones from the 2013. (Github repo)
+One half of plots have field maple (Ace_cam) and the other has NOrway maple (Ace_pla) so use the one without it (2013-2020)
+Since there are 0 in mu1 and mu2 use params from Lucian
+
+Interesting finds
+Oak - Que_rob has a very low mortality in c1 and very high in c2
+for Fra_exc use Lucians rec val
+
+Jan21
+
+DOwnloaded the demo rates and initial states from 2013 set
+
+print(flooded)
+# A tibble: 9 × 6
+  SP          G1      G2     mu1      mu2 rec_ha
+  <chr>    <dbl>   <dbl>   <dbl>    <dbl>  <dbl>
+1 Ace_neg 1.04   NA      0       NA         NA  
+2 Ace_pla 0.492   0.397  0        0          0.5
+3 Ace_pse 0.288   0.115  0.0385   0.0349     1  
+4 Car_bet 0.343   0.361  0        0          4  
+5 Cor_san 0.2     0.0750 0        0         NA  
+6 Fra_exc 0.0562 NA      0.140   NA         NA  
+7 Que_rob 0.295   0.275  0.00667  0.0558    NA  
+8 Til_spe 0.508   0.509  0        0.00382    9.5
+9 Ulm_spe 1.20    0.540  0.0456   0.0468     7  
+
+Next for the missing values: fill them from moist rates from Lucian
+
+But Lucian's moist have negative values for param1
+> print(wet)
+# A tibble: 7 × 10
+  sp       G1    G2    mu1    mu2 rec_ha inflection steepness  param1 param2
+  <chr> <dbl> <dbl>  <dbl>  <dbl>  <dbl>      <dbl>     <dbl>   <dbl>  <dbl>
+1 BAH   0.374 0.273 0.0314 0.0245  2.03        65.6      22.3  -0.404    200
+2 GES   0.255 0.146 0.0234 0.0997  0.104       77.1      18.1  10.3      250
+3 HBU   0.364 0.309 0.0063 0.0034  0.677       46.5      26.6 -29.1      200
+4 SAH   0.408 0.326 0.0179 0.0111  2.40        65.6      22.3  -0.404    200
+5 SEI   0.267 0.242 0.0334 0.0828  0           77.1      18.1  10.3      250
+6 UL    0.304 0.214 0.0262 0.0257  2.24        64.9      19.0  -0.502    200
+7 WLI   0.251 0.182 0.0081 0.0063  4.69        64.9      19.0  -0.502    200
+> 
+
+Running the PPA mmodel
+
+alomis not relevant
+plots should be per parameter and all specieis in it
+
+Jan 22
+- [x] 1.⁠ ⁠Species demographics 
+- [x] 2.⁠ ⁠⁠plots for each demo variable for each cl - flooded
+- [x] 3.⁠ ⁠⁠plots for each demo variable for each cl - dry wet inter condition 
+- [x] 4.⁠ ⁠⁠compare the four groundwater conditions 
+- [x] 5.⁠ ⁠⁠simulations for each groundwater condition incl flooded
+- [ ] 6.⁠ ⁠⁠Carbon storage under different groundwater conditions

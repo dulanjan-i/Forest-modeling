@@ -1,0 +1,322 @@
+Tree_ID,PLOTID,DBH20,DBH24,SP,Status,cl
+P81.B1.0,81,16.9,16.9,Ulm_spe,2 - zu THS,2
+P81.B2.0,81,5.2,7.9,Ulm_spe,1 - Nein,2
+P81.B3.0,81,6.5,9.5,Car_bet,1 - Nein,2
+P81.B4.0,81,7.8,11.8,Ulm_spe,1 - Nein,2
+P81.B5.0,81,48.7,49.7,Car_bet,1 - Nein,1
+P81.B6.0,81,35.6,35.8,Car_bet,1 - Nein,2
+P81.B7.0,81,28.6,29.6,Car_bet,1 - Nein,2
+P81.B8.0,81,26.4,27.5,Car_bet,1 - Nein,2
+P81.B9.0,81,23.6,24.7,Car_bet,1 - Nein,2
+P81.B10.0,81,5.2,6.5,Til_spe,1 - Nein,2
+P81.B11.0,81,6.3,7.9,Car_bet,1 - Nein,2
+P81.B12.0,81,7.6,11.5,Til_spe,1 - Nein,2
+P81.B13.0,81,7.9,10.6,Til_spe,1 - Nein,2
+P81.B14.0,81,7.8,9.9,Til_spe,1 - Nein,2
+P81.B15.0,81,111.6,112,Que_rob,1 - Nein,1
+P81.B16.0,81,9.7,13.2,Ulm_spe,1 - Nein,2
+P81.B17.0,81,84.3,85.5,Que_rob,1 - Nein,1
+P81.B18.0,81,7.4,10.2,Ulm_spe,1 - Nein,2
+P81.B19.0,81,5.2,6.8,Ulm_spe,1 - Nein,2
+P81.B20.0,81,12.5,16,Ulm_spe,1 - Nein,2
+P81.B21.0,81,5.6,6.8,Ulm_spe,1 - Nein,2
+P81.B22.0,81,7.6,9.1,Til_spe,1 - Nein,2
+P81.B23.0,81,5.2,5.8,Ulm_spe,1 - Nein,2
+P81.B24.0,81,110,111.5,Que_rob,1 - Nein,1
+P81.B25.0,81,6.8,8.5,Ulm_spe,1 - Nein,2
+P81.B26.1,81,15.6,17.6,Ulm_spe,1 - Nein,2
+P81.B26.2,81,7.2,7.9,Ulm_spe,1 - Nein,2
+P81.B27.0,81,12.2,13.8,Ulm_spe,1 - Nein,1
+P81.B28.0,81,6.8,7,Ulm_spe,4 - zu THL,2
+P81.B29.0,81,86.5,0,Fra_exc,4 - zu THL,1
+P81.B30.0,81,7.5,9.4,Ulm_spe,5 - BAUM Neu,2
+P81.B32.0,81,12.7,16,Ulm_spe,1 - Nein,2
+P81.B33.0,81,5,0,Ulm_spe,2 - zu THS,2
+P81.B34.0,81,15.3,20,Ulm_spe,1 - Nein,2
+P81.B35.0,81,7,8,Ulm_spe,1 - Nein,2
+P81.B36.0,81,8.5,6.1,Ulm_spe,1 - Nein,2
+P81.B38.0,81,7,12,Til_spe,1 - Nein,2
+P81.B39.0,81,14.9,29,Ulm_spe,1 - Nein,1
+P81.B40.0,81,11,12.1,Ulm_spe,1 - Nein,2
+P81.B41.0,81,13.2,13.5,Ace_pse,1 - Nein,1
+P81.B42.0,81,9.6,10.2,Ace_pse,1 - Nein,2
+P81.B43.0,81,11.3,16.3,Ulm_spe,1 - Nein,1
+P81.B44.0,81,14.1,0,Ulm_spe,2 - zu THS,2
+P81.B45.0,81,5.2,7.6,Til_spe,1 - Nein,2
+P81.B46.0,81,7.8,13.1,Til_spe,1 - Nein,2
+P81.B47.1,81,16.5,20.5,Ulm_spe,1 - Nein,1
+P81.B47.2,81,5.3,6.6,Ulm_spe,1 - Nein,2
+P81.B48.1,81,13,0,Ulm_spe,2 - zu THS,1
+P81.B48.2,81,10,0,Ulm_spe,2 - zu THS,2
+P81.B49.0,81,6,8,Til_spe,1 - Nein,2
+P81.B50.0,81,6.5,7,Car_bet,1 - Nein,2
+P81.B51.0,81,33.3,34.9,Que_rob,1 - Nein,1
+P81.B52.0,81,5.6,7.4,Til_spe,1 - Nein,2
+P81.B53.0,81,7.2,0,Ace_pse,2 - zu THS,2
+P81.B54.0,81,7.3,13.6,Til_spe,1 - Nein,2
+P81.B55.0,81,11.3,12.4,Ace_pse,1 - Nein,2
+P81.B56.0,81,8.9,8.5,Ace_pse,1 - Nein,2
+P81.B57.0,81,8.2,12.6,Ulm_spe,1 - Nein,2
+P81.B58.0,81,7.7,11.8,Ulm_spe,1 - Nein,2
+P81.B59.0,81,7.4,0,Ulm_spe,4 - zu THL,2
+P81.B60.0,81,5.9,8.1,Til_spe,1 - Nein,2
+P81.B61.0,81,7,9.4,Til_spe,1 - Nein,2
+P81.B62.0,81,32.1,33.7,Que_rob,1 - Nein,1
+P81.B63.0,81,10.1,11.4,Ace_pla,1 - Nein,1
+P81.B64.0,81,35.7,36.8,Til_spe,1 - Nein,1
+P81.B65.0,81,49.8,51.9,Que_rob,1 - Nein,1
+P81.B66.0,81,28.4,29.9,Til_spe,1 - Nein,1
+P81.B67.0,81,43.1,44.1,Que_rob,1 - Nein,1
+P81.B68.0,81,5,6.1,Til_spe,1 - Nein,2
+P81.B69.0,81,6,6.9,Til_spe,1 - Nein,1
+P81.B70.0,81,5,6.5,Til_spe,1 - Nein,2
+P81.B72.0,81,8.1,9.3,Til_spe,1 - Nein,2
+P81.B73.0,81,5.1,6.1,Til_spe,1 - Nein,2
+P81.B74.0,81,7.4,9,Til_spe,1 - Nein,2
+P81.B75.0,81,7.6,9.2,Til_spe,1 - Nein,2
+P81.B77.0,81,8.1,9.2,Ulm_spe,1 - Nein,2
+P81.B78.0,81,8.9,11.2,Til_spe,1 - Nein,2
+P81.B79.0,81,5,5,Til_spe,1 - Nein,2
+P81.B80.0,81,6.8,8.1,Til_spe,1 - Nein,2
+P81.B81.0,81,50.2,51.5,Que_rob,1 - Nein,1
+P81.B82.0,81,7.8,8.8,Til_spe,1 - Nein,2
+P81.B83.0,81,5.2,6.5,Til_spe,1 - Nein,2
+P81.B84.0,81,8.4,9.1,Til_spe,1 - Nein,2
+P81.B85.0,81,7.5,8.8,Til_spe,1 - Nein,2
+P81.B86.0,81,12.6,15.2,Til_spe,1 - Nein,2
+P81.B87.0,81,6.6,7,Til_spe,1 - Nein,2
+P81.B88.0,81,5.7,6.3,Til_spe,1 - Nein,2
+P81.B89.0,81,6.8,6.5,Til_spe,1 - Nein,2
+P81.B90.0,81,8.4,9.8,Til_spe,1 - Nein,2
+P81.B91.0,81,6.5,6.3,Til_spe,1 - Nein,2
+P81.B92.0,81,7.1,8.8,Til_spe,1 - Nein,2
+P81.B93.0,81,10.7,12.5,Ulm_spe,1 - Nein,2
+P81.B94.0,81,70,70.6,Que_rob,1 - Nein,1
+P81.B95.0,81,5.6,7.6,Til_spe,1 - Nein,2
+P81.B96.0,81,14.9,18,Til_spe,1 - Nein,1
+P81.B97.0,81,5.5,6.5,Ulm_spe,1 - Nein,2
+P81.B98.0,81,5.6,6.9,Ulm_spe,1 - Nein,2
+P81.B99.0,81,6.1,8.2,Car_bet,1 - Nein,2
+P81.B100.0,81,9.1,8.9,Til_spe,1 - Nein,2
+P81.B101.0,81,5,6.4,Car_bet,1 - Nein,2
+P81.B102.0,81,11.4,14.2,Til_spe,1 - Nein,2
+P81.B103.0,81,11.3,13.5,Til_spe,1 - Nein,2
+P81.B104.0,81,5,6.1,Car_bet,1 - Nein,2
+P81.B105.0,81,11,11.6,Ulm_spe,1 - Nein,2
+P81.B106.0,81,21.5,21.5,Car_bet,1 - Nein,2
+P81.B107.0,81,27,26.9,Car_bet,1 - Nein,2
+P81.B108.0,81,38.4,38.5,Car_bet,1 - Nein,1
+P81.B109.0,81,29.7,30.3,Car_bet,1 - Nein,1
+P81.B110.0,81,27.8,28.2,Car_bet,1 - Nein,1
+P81.B111.0,81,34.3,35.5,Car_bet,1 - Nein,1
+P81.B112.0,81,28.2,28.7,Car_bet,1 - Nein,2
+P81.B113.0,81,39.8,41,Que_rob,1 - Nein,1
+P81.B114.0,81,27.2,27.5,Que_rob,1 - Nein,1
+P81.B115.0,81,31.7,32.3,Que_rob,1 - Nein,1
+P81.B116.0,81,41.2,42.6,Que_rob,1 - Nein,1
+P81.B117.0,81,44.5,45.9,Que_rob,1 - Nein,1
+P81.B119.0,81,5,5.5,Fra_exc,1 - Nein,1
+P81.B120.0,81,6.3,9.3,Ulm_spe,1 - Nein,1
+P81.B122.0,81,37.5,39.1,Que_rob,1 - Nein,1
+P81.B123.0,81,12.2,13.5,Til_spe,1 - Nein,1
+P81.B124.0,81,6.7,7.3,Ulm_spe,1 - Nein,1
+P81.B125.0,81,6.3,8.1,Car_bet,1 - Nein,1
+P81.B126.0,81,37.7,40.6,Que_rob,1 - Nein,1
+P81.B127.0,81,8.9,10.5,Ulm_spe,1 - Nein,2
+P81.B128.0,81,16.8,20.3,Til_spe,1 - Nein,1
+P81.B130.0,81,10,13.1,Til_spe,1 - Nein,2
+P81.B131.1,81,7.7,9.4,Til_spe,1 - Nein,1
+P81.B131.2,81,6.8,9.4,Til_spe,1 - Nein,1
+P81.B132.0,81,36.7,37.6,Que_rob,1 - Nein,1
+P81.B133.0,81,10.6,10.6,Til_spe,1 - Nein,1
+P81.B134.0,81,6.1,7.5,Til_spe,1 - Nein,1
+P81.B135.0,81,8.8,11.3,Til_spe,1 - Nein,1
+P81.B136.0,81,8.2,11.4,Til_spe,1 - Nein,1
+P81.B137.0,81,24.7,25.3,Que_rob,1 - Nein,1
+P81.B138.0,81,12.5,17.5,Ulm_spe,1 - Nein,1
+P81.B139.0,81,31.1,31.8,Que_rob,1 - Nein,1
+P81.B140.0,81,11.1,12.5,Til_spe,1 - Nein,1
+P81.B141.0,81,5.2,6.4,Til_spe,1 - Nein,2
+P81.B142.0,81,7.4,7.4,Ace_pse,1 - Nein,1
+P81.B143.0,81,45.3,47.7,Que_rob,1 - Nein,1
+P81.B145.1,81,5.8,8.1,Til_spe,1 - Nein,1
+P81.B145.2,81,5.5,8.2,Til_spe,1 - Nein,2
+P81.B146.0,81,28.1,30.7,Que_rob,1 - Nein,1
+P81.B147.0,81,6.5,8.9,Til_spe,1 - Nein,2
+P81.B148.0,81,44.5,45.8,Car_bet,1 - Nein,1
+P81.B149.0,81,6.6,7.2,Ace_pse,1 - Nein,2
+P81.B150.0,81,46.4,48.4,Que_rob,1 - Nein,1
+P81.B151.0,81,6.4,7.9,Til_spe,1 - Nein,2
+P81.B152.0,81,46,48.2,Que_rob,1 - Nein,1
+P81.B153.0,81,33.2,33.9,Que_rob,1 - Nein,1
+P81.B154.0,81,9.4,0,Til_spe,4 - zu THL,2
+P81.B155.0,81,8.8,12.2,Til_spe,1 - Nein,2
+P81.B156.0,81,9.1,9.7,Ace_pse,1 - Nein,2
+P81.B157.0,81,16.6,0,Ulm_spe,2 - zu THS,1
+P81.B158.0,81,11,0,Ulm_spe,4 - zu THL,2
+P81.B159.0,81,5.2,7.2,Ulm_spe,1 - Nein,2
+P81.B160.0,81,29.7,31.5,Que_rob,1 - Nein,1
+P81.B162.0,81,7.3,9,Til_spe,1 - Nein,2
+P81.B163.0,81,6.7,8.1,Car_bet,1 - Nein,2
+P81.B5.1,81,0,6.3,Car_bet,5 - BAUM Neu,NA
+P81.B31.0,81,0,7.9,Ulm_spe,5 - BAUM Neu,NA
+P81.B34.1,81,0,5.1,Ulm_spe,5 - BAUM Neu,NA
+P81.B37.0,81,0,28.9,Ulm_spe,5 - BAUM Neu,NA
+P81.B147.1,81,0,6.7,Til_spe,5 - BAUM Neu,NA
+P81.B164.0,81,0,5.2,Til_spe,5 - BAUM Neu,NA
+P81.B165.0,81,0,7,Til_spe,5 - BAUM Neu,NA
+P81.B166.0,81,0,6.4,Car_bet,5 - BAUM Neu,NA
+P81.B167.0,81,0,6.5,Car_bet,5 - BAUM Neu,NA
+P81.B168.0,81,0,5.2,Ace_pse,5 - BAUM Neu,NA
+P81.B169.0,81,0,5.9,Ulm_spe,5 - BAUM Neu,NA
+P81.B169.1,81,0,5.8,Til_spe,5 - BAUM Neu,NA
+P81.B171.0,81,0,8,Ulm_spe,5 - BAUM Neu,NA
+P81.B172.0,81,0,5.4,Ulm_spe,5 - BAUM Neu,NA
+P81.B173.0,81,0,6.3,Ulm_spe,5 - BAUM Neu,NA
+P81.B174.0,81,0,6.5,Ulm_spe,5 - BAUM Neu,NA
+P81.B175.0,81,0,8.6,Ulm_spe,5 - BAUM Neu,NA
+P81.B175.1,81,0,6.4,Ulm_spe,5 - BAUM Neu,NA
+P81.B177.0,81,0,6.8,Til_spe,5 - BAUM Neu,NA
+P81.B178.0,81,0,6.5,Til_spe,5 - BAUM Neu,NA
+P81.B179.0,81,0,7.1,Til_spe,5 - BAUM Neu,NA
+P81.B180.0,81,0,5.7,Til_spe,5 - BAUM Neu,NA
+P81.B181.0,81,0,6.5,Car_bet,5 - BAUM Neu,NA
+P81.B182.0,81,0,7.2,Til_spe,5 - BAUM Neu,NA
+P81.B183.0,81,0,5.6,Til_spe,5 - BAUM Neu,NA
+P81.B184.0,81,0,6.5,Ulm_spe,5 - BAUM Neu,NA
+P81.B185.0,81,0,5.5,Til_spe,5 - BAUM Neu,NA
+P81.B186.0,81,0,5.8,Car_bet,5 - BAUM Neu,NA
+P81.B187.0,81,0,5.5,Ulm_spe,5 - BAUM Neu,NA
+P81.B188.0,81,0,7.3,Til_spe,5 - BAUM Neu,NA
+P82.B1.0,82,6.1,8.1,Til_spe,1 - Nein,2
+P82.B2.0,82,7.9,9.9,Til_spe,1 - Nein,2
+P82.B3.0,82,6.8,7.5,Ace_pse,1 - Nein,2
+P82.B4.0,82,8,9.1,Til_spe,1 - Nein,2
+P82.B5.0,82,9,10.7,Til_spe,1 - Nein,2
+P82.B6.0,82,12.6,13.9,Ace_pse,1 - Nein,2
+P82.B7.0,82,8.2,8.2,Ace_pse,1 - Nein,2
+P82.B9.0,82,7.7,10.5,Til_spe,1 - Nein,2
+P82.B10.0,82,9.4,10.2,Ace_pse,1 - Nein,2
+P82.B13.0,82,31.2,31.6,Que_rob,1 - Nein,1
+P82.B14.0,82,31.8,32.3,Que_rob,1 - Nein,2
+P82.B15.0,82,22.4,24.5,Ace_pla,1 - Nein,2
+P82.B16.0,82,30.7,30.7,Que_rob,1 - Nein,1
+P82.B17.0,82,39.4,40.1,Que_rob,1 - Nein,1
+P82.B18.0,82,54.1,54.9,Fra_exc,1 - Nein,1
+P82.B19.0,82,6.8,6.1,Ace_pse,1 - Nein,2
+P82.B20.0,82,46.7,49.2,Car_bet,1 - Nein,1
+P82.B21.0,82,27.5,27.2,Car_bet,1 - Nein,1
+P82.B22.0,82,33.3,34.7,Car_bet,1 - Nein,1
+P82.B23.0,82,17.9,18.1,Car_bet,1 - Nein,1
+P82.B24.0,82,34.8,36.6,Car_bet,1 - Nein,1
+P82.B25.0,82,15.5,18,Car_bet,1 - Nein,1
+P82.B26.0,82,24.9,25.8,Car_bet,1 - Nein,1
+P82.B27.0,82,26.6,27.6,Car_bet,1 - Nein,1
+P82.B28.0,82,44.6,46.5,Que_rob,1 - Nein,1
+P82.B29.0,82,5,5.3,Ace_pse,1 - Nein,2
+P82.B30.0,82,5.6,7.1,Ulm_spe,1 - Nein,2
+P82.B31.0,82,29.2,29.7,Que_rob,1 - Nein,1
+P82.B32.0,82,6.2,6.2,Ace_pse,1 - Nein,2
+P82.B33.0,82,5.5,5.3,Ace_pse,1 - Nein,2
+P82.B34.0,82,12.6,0,Ace_pse,2 - zu THS,2
+P82.B35.0,82,44.2,45.7,Que_rob,1 - Nein,1
+P82.B36.0,82,26.7,28.8,Car_bet,1 - Nein,1
+P82.B37.0,82,24.7,25.5,Car_bet,1 - Nein,1
+P82.B38.0,82,26.8,28.9,Car_bet,1 - Nein,1
+P82.B39.0,82,8.3,13,Ulm_spe,1 - Nein,1
+P82.B40.0,82,7.6,10.8,Ulm_spe,1 - Nein,2
+P82.B41.0,82,7.9,10.7,Ulm_spe,1 - Nein,2
+P82.B42.0,82,23.1,22,Car_bet,1 - Nein,2
+P82.B43.0,82,6.9,6.9,Til_spe,1 - Nein,2
+P82.B44.1,82,9.7,13.7,Til_spe,1 - Nein,1
+P82.B44.2,82,5.8,9.4,Til_spe,1 - Nein,2
+P82.B46.0,82,18.3,21.4,Car_bet,1 - Nein,2
+P82.B47.0,82,11.2,16,Til_spe,1 - Nein,2
+P82.B48.0,82,6.1,9.6,Car_bet,1 - Nein,2
+P82.B49.0,82,45.9,47.6,Que_rob,1 - Nein,1
+P82.B50.0,82,7.2,8.8,Til_spe,1 - Nein,2
+P82.B51.0,82,5.8,7.3,Til_spe,1 - Nein,2
+P82.B52.0,82,13,19.7,Til_spe,1 - Nein,2
+P82.B53.1,82,10.9,0,Ace_pse,4 - zu THL,1
+P82.B53.2,82,10.3,10.3,Ace_pse,1 - Nein,2
+P82.B54.0,82,8.1,0,Ace_pse,4 - zu THL,2
+P82.B55.0,82,10.2,10.9,Ace_pse,1 - Nein,2
+P82.B56.0,82,5.7,8,Til_spe,1 - Nein,2
+P82.B57.0,82,9.8,12.6,Til_spe,1 - Nein,2
+P82.B58.0,82,12.1,12.6,Ace_pse,1 - Nein,2
+P82.B59.0,82,6.4,8.9,Til_spe,1 - Nein,2
+P82.B60.0,82,5.8,7.6,Ace_pse,1 - Nein,2
+P82.B61.0,82,8.5,11,Til_spe,1 - Nein,2
+P82.B62.0,82,7.8,10,Til_spe,1 - Nein,2
+P82.B63.0,82,6,6.4,Til_spe,1 - Nein,2
+P82.B64.0,82,5.2,6.2,Ace_pse,1 - Nein,2
+P82.B65.0,82,10.8,13.8,Til_spe,1 - Nein,2
+P82.B66.0,82,6.1,7.7,Til_spe,1 - Nein,2
+P82.B67.0,82,5.5,5.4,Til_spe,1 - Nein,2
+P82.B68.0,82,32.4,34.1,Car_bet,1 - Nein,1
+P82.B69.0,82,33.2,34.3,Car_bet,1 - Nein,1
+P82.B70.0,82,44.8,47.6,Car_bet,1 - Nein,1
+P82.B71.0,82,6.5,8.4,Ace_pla,1 - Nein,2
+P82.B72.0,82,5.2,5.2,Ace_pse,1 - Nein,2
+P82.B73.0,82,51.5,0,Fra_exc,4 - zu THL,1
+P82.B74.0,82,37.1,37.5,Fra_exc,1 - Nein,1
+P82.B75.0,82,41.5,42.7,Car_bet,1 - Nein,1
+P82.B76.0,82,19,19.9,Car_bet,1 - Nein,1
+P82.B77.0,82,32,33,Car_bet,1 - Nein,1
+P82.B78.0,82,28.9,31,Car_bet,1 - Nein,1
+P82.B79.0,82,18.3,20.1,Car_bet,1 - Nein,2
+P82.B80.0,82,9.5,11.9,Ace_pla,1 - Nein,2
+P82.B81.0,82,58,0,Fra_exc,4 - zu THL,1
+P82.B82.0,82,26,27.7,Car_bet,1 - Nein,1
+P82.B83.0,82,14.7,15.9,Car_bet,1 - Nein,1
+P82.B84.0,82,16.5,17.4,Car_bet,1 - Nein,1
+P82.B85.0,82,25.5,26.8,Car_bet,1 - Nein,1
+P82.B86.0,82,8.9,9.7,Ace_pla,1 - Nein,1
+P82.B87.0,82,41,41.8,Que_rob,1 - Nein,1
+P82.B88.0,82,5.2,7,Ace_pla,1 - Nein,2
+P82.B89.0,82,7.9,8.6,Ace_pla,1 - Nein,2
+P82.B90.0,82,8.9,9.3,Ace_pla,1 - Nein,2
+P82.B92.0,82,8.9,10.2,Ace_pla,1 - Nein,2
+P82.B93.0,82,36.3,38.3,Que_rob,1 - Nein,2
+P82.B95.0,82,10.5,11,Ace_pse,1 - Nein,2
+P82.B96.0,82,36.2,36.9,Que_rob,1 - Nein,1
+P82.B97.0,82,63.3,63.7,Que_rob,1 - Nein,1
+P82.B98.0,82,20.6,22.8,Car_bet,1 - Nein,2
+P82.B99.0,82,13.9,15.4,Ace_pla,1 - Nein,2
+P82.B100.0,82,12.5,15.1,Ulm_spe,1 - Nein,2
+P82.B101.0,82,13.7,15.9,Ace_pla,1 - Nein,2
+P82.B102.0,82,36.6,37.3,Que_rob,1 - Nein,1
+P82.B103.0,82,31.6,33.9,Car_bet,1 - Nein,2
+P82.B104.0,82,68.8,68,Fra_exc,1 - Nein,1
+P82.B105.0,82,18.5,21.8,Car_bet,1 - Nein,2
+P82.B106.0,82,7,10.5,Til_spe,1 - Nein,2
+P82.B107.0,82,32.1,33.9,Car_bet,1 - Nein,2
+P82.B108.0,82,8.6,8.3,Ace_pse,1 - Nein,1
+P82.B109.0,82,6.2,6.2,Ace_pse,1 - Nein,1
+P82.B110.0,82,10.1,13.8,Ace_pse,1 - Nein,1
+P82.B111.0,82,19.6,24.8,Ulm_spe,1 - Nein,2
+P82.B112.0,82,16.5,18.6,Car_bet,1 - Nein,1
+P82.B113.0,82,36.2,38.8,Car_bet,1 - Nein,1
+P82.B114.0,82,47.8,49.9,Car_bet,1 - Nein,1
+P82.B115.0,82,5.3,9.7,Ulm_spe,1 - Nein,1
+P82.B116.0,82,10.4,16.2,Ulm_spe,1 - Nein,1
+P82.B117.0,82,32.5,34.1,Car_bet,1 - Nein,1
+P82.B118.0,82,28.3,32.1,Ace_pla,1 - Nein,1
+P82.B119.0,82,7.2,10.4,Ace_pse,1 - Nein,1
+P82.B120.0,82,7.8,10.5,Ulm_spe,1 - Nein,2
+P82.B121.0,82,8.3,9.6,Ulm_spe,1 - Nein,2
+P82.B122.0,82,9.8,12.7,Ulm_spe,1 - Nein,2
+P82.B123.0,82,27.5,28.4,Car_bet,1 - Nein,1
+P82.B43.1,82,0,7.2,Til_spe,5 - BAUM Neu,NA
+P82.B43.2,82,0,6.1,Til_spe,5 - BAUM Neu,NA
+P82.B48.1,82,0,7.5,Car_bet,5 - BAUM Neu,NA
+P82.B124.0,82,0,5.5,Car_bet,5 - BAUM Neu,NA
+P82.B125.0,82,0,6.6,Til_spe,5 - BAUM Neu,NA
+P82.B126.0,82,0,5.1,Ace_pla,5 - BAUM Neu,NA
+P82.B127.0,82,0,6.6,Ace_pse,5 - BAUM Neu,NA
+P82.B128.0,82,0,5.4,Til_spe,5 - BAUM Neu,NA
+P82.B128.1,82,0,5.5,Til_spe,5 - BAUM Neu,NA
+P82.B129.0,82,0,6.4,Til_spe,5 - BAUM Neu,NA
+P82.B130.0,82,0,5.5,Til_spe,5 - BAUM Neu,NA
+P82.B131.0,82,0,5.3,Ulm_spe,5 - BAUM Neu,NA
+P82.B132.0,82,0,5.1,Car_bet,5 - BAUM Neu,NA

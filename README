@@ -1,4 +1,10 @@
-This repository contains all the calculatons of the floodings case study of the interdisciplinary case study module of WiSe 24/25.
-Please note that each folder has a separate R project and if you need to re-run the tests, please use the same R project since each folder and R project are created for separate working directories.
-  If any issue arises while running the scripts please contact the author of the repository for further clarifications.
-This repository is not public and please refrain form sharing this as these results are not yet published= and only intended for the use of Sustainers only!!!
+#### **Flooding Case Study – Interdisciplinary Case Study Module (WiSe 24/25)
+
+This repository contains all calculations related to the flooding case study for the Interdisciplinary Case Study module (WiSe 24/25).  
+
+### **Important Notes**  
+- Each folder includes a separate **R Project**. If you need to re-run the tests, please ensure that you use the corresponding **R Project** for each folder, as they are designed for distinct working directories.  
+- If you encounter any issues while running the scripts, please contact the **repository author** for further clarification.  
+
+### **Disclaimer**  
+🚨 **This repository is private** and contains **unpublished results**. It is intended **strictly for use by Sustainers only**. Please refrain from sharing any content externally until the results are officially published.  
